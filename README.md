@@ -1,5 +1,5 @@
-# Template Repository
+# .github repo
 
-My personal GitHub Repository template.
+My default GitHub repository.
 
-If you use this, please search for `jmeridth*` and replace with your own GitHub username and/or email address.
+Contains the "fallback" files for all of my repositories.
